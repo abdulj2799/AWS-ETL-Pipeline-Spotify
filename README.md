@@ -4,7 +4,7 @@ This project implements an ETL (Extract, Transform, Load) pipeline to collect, p
 #System Architecture
 ![Architecture](https://github.com/user-attachments/assets/9b276007-372c-462c-8620-7a4f90e9c342)
 
-$Spotify API Overview
+#Spotify API Overview-
 The Spotify API enables developers to access Spotify’s extensive music database. It supports functionalities such as browsing music, managing playlists, searching tracks, and retrieving metadata on artists, albums, and songs. This project specifically uses the Top 50 - India playlist as the dataset.
 
 #AWS Services Used
