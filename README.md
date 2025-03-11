@@ -16,10 +16,10 @@ The Spotify API enables developers to access Spotify’s extensive music databas
  - AWS Data Catalog – Centralized metadata repository for structured queries in Athena.
 
 #### Required Packages
-pip install pandas
-pip install boto3
-pip install spotipy
-pip install numpy
+- `pandas`
+- `boto3`
+- `spotipy`
+- `numpy`
 
 #### Execution Flow
  - CloudWatch triggers an AWS Lambda function weekly.
